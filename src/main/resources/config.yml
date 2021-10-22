@@ -1,0 +1,16 @@
+
+winnersAmount:
+  min: 1
+  max: 5
+
+randomNumber:
+  min: 1
+  max: 5
+
+commandsToExecute:
+  - ""
+
+log:
+  enabled: true
+  howMuchWinners: "§eКол-во победителей: "
+  timeToLottery: "§eВремя розыгрышей: "

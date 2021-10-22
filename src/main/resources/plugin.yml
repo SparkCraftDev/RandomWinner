@@ -1,0 +1,6 @@
+name: RandomWinner
+version: '${project.version}'
+main: ru.sparkcraft.randomwinner.RandomWinner
+api-version: 1.16
+authors: [ Spark ]
+website: sparkcraft.ru
